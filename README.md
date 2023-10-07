@@ -6,5 +6,7 @@ The Location Finder Android App is a simple application that leverages location 
 
 ### Features
 1.Retrieves and displays the user's current location.
+
 2.Utilizes the Android Location API for accurate location information.
+
 3.User-friendly interface with a button to trigger location retrieval.
